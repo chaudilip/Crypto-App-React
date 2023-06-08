@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### This is my Second Site which is live now feel free to check it out🚀
+
+https://react-crypto-app-lac.vercel.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
